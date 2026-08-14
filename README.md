@@ -64,37 +64,37 @@ For reviewing or reproducing the project, follow this order:
 - PostgreSQL was used as the relational database system.
 - Metabase was used for dashboard development and visualization.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
 
 # ABC Foodmart — SQL & Relational Database Final Project
 
