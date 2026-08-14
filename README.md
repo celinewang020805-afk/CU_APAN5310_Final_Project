@@ -63,39 +63,38 @@ For reviewing or reproducing the project, follow this order:
 - All business data in this project is synthetic and created for academic use.
 - PostgreSQL was used as the relational database system.
 - Metabase was used for dashboard development and visualization.
- 
 
-
- 
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-  
- 
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 # ABC Foodmart — SQL & Relational Database Final Project
 
