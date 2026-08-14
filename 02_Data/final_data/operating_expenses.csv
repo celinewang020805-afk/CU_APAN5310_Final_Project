@@ -1,0 +1,120 @@
+expense_id,store_id,expense_date,expense_type,amount,description
+1,1,2025-11-09,rent,8538.74,Monthly store rent
+2,1,2025-11-07,utilities,1076.51,"Electricity, water, and internet"
+3,1,2025-11-10,supplies,377.02,Cleaning and office supplies
+4,1,2025-11-30,wages,9748.97,Calculated from completed synthetic staff shifts
+5,2,2025-11-11,rent,7657.26,Monthly store rent
+6,2,2025-11-08,utilities,1351.29,"Electricity, water, and internet"
+7,2,2025-11-10,supplies,216.52,Cleaning and office supplies
+8,2,2025-11-30,wages,9508.08,Calculated from completed synthetic staff shifts
+9,3,2025-11-03,rent,8069.46,Monthly store rent
+10,3,2025-11-02,utilities,790.83,"Electricity, water, and internet"
+11,3,2025-11-07,supplies,356.90,Cleaning and office supplies
+12,3,2025-11-30,wages,10111.78,Calculated from completed synthetic staff shifts
+13,3,2025-11-10,other,1549.51,Synthetic other expense
+14,1,2025-12-09,rent,9450.74,Monthly store rent
+15,1,2025-12-02,utilities,1201.22,"Electricity, water, and internet"
+16,1,2025-12-05,supplies,313.18,Cleaning and office supplies
+17,1,2025-12-31,wages,8637.23,Calculated from completed synthetic staff shifts
+18,1,2025-12-14,other,342.82,Synthetic other expense
+19,2,2025-12-09,rent,7473.22,Monthly store rent
+20,2,2025-12-06,utilities,761.91,"Electricity, water, and internet"
+21,2,2025-12-05,supplies,350.14,Cleaning and office supplies
+22,2,2025-12-31,wages,9296.82,Calculated from completed synthetic staff shifts
+23,3,2025-12-02,rent,7281.51,Monthly store rent
+24,3,2025-12-10,utilities,1320.44,"Electricity, water, and internet"
+25,3,2025-12-05,supplies,335.88,Cleaning and office supplies
+26,3,2025-12-31,wages,12961.25,Calculated from completed synthetic staff shifts
+27,1,2026-01-02,rent,9347.95,Monthly store rent
+28,1,2026-01-09,utilities,834.77,"Electricity, water, and internet"
+29,1,2026-01-07,supplies,280.26,Cleaning and office supplies
+30,1,2026-01-31,wages,8388.95,Calculated from completed synthetic staff shifts
+31,2,2026-01-02,rent,6691.09,Monthly store rent
+32,2,2026-01-01,utilities,1030.27,"Electricity, water, and internet"
+33,2,2026-01-04,supplies,391.49,Cleaning and office supplies
+34,2,2026-01-31,wages,9233.22,Calculated from completed synthetic staff shifts
+35,3,2026-01-11,rent,7621.25,Monthly store rent
+36,3,2026-01-10,utilities,1121.32,"Electricity, water, and internet"
+37,3,2026-01-01,supplies,350.75,Cleaning and office supplies
+38,3,2026-01-31,wages,10896.02,Calculated from completed synthetic staff shifts
+39,3,2026-01-22,maintenance,841.10,Synthetic maintenance expense
+40,1,2026-02-04,rent,7614.06,Monthly store rent
+41,1,2026-02-11,utilities,708.46,"Electricity, water, and internet"
+42,1,2026-02-08,supplies,396.54,Cleaning and office supplies
+43,1,2026-02-28,wages,8097.88,Calculated from completed synthetic staff shifts
+44,2,2026-02-06,rent,7777.58,Monthly store rent
+45,2,2026-02-01,utilities,923.64,"Electricity, water, and internet"
+46,2,2026-02-02,supplies,195.13,Cleaning and office supplies
+47,2,2026-02-28,wages,7166.96,Calculated from completed synthetic staff shifts
+48,3,2026-02-08,rent,6700.96,Monthly store rent
+49,3,2026-02-02,utilities,704.78,"Electricity, water, and internet"
+50,3,2026-02-07,supplies,390.01,Cleaning and office supplies
+51,3,2026-02-28,wages,8690.12,Calculated from completed synthetic staff shifts
+52,1,2026-03-08,rent,7845.22,Monthly store rent
+53,1,2026-03-03,utilities,847.37,"Electricity, water, and internet"
+54,1,2026-03-08,supplies,188.17,Cleaning and office supplies
+55,1,2026-03-31,wages,9545.06,Calculated from completed synthetic staff shifts
+56,2,2026-03-05,rent,8279.43,Monthly store rent
+57,2,2026-03-06,utilities,900.50,"Electricity, water, and internet"
+58,2,2026-03-07,supplies,261.00,Cleaning and office supplies
+59,2,2026-03-31,wages,9026.81,Calculated from completed synthetic staff shifts
+60,3,2026-03-05,rent,7640.98,Monthly store rent
+61,3,2026-03-03,utilities,1075.98,"Electricity, water, and internet"
+62,3,2026-03-01,supplies,383.70,Cleaning and office supplies
+63,3,2026-03-31,wages,10037.23,Calculated from completed synthetic staff shifts
+64,3,2026-03-07,other,381.19,Synthetic other expense
+65,1,2026-04-11,rent,6641.62,Monthly store rent
+66,1,2026-04-01,utilities,701.45,"Electricity, water, and internet"
+67,1,2026-04-04,supplies,222.45,Cleaning and office supplies
+68,1,2026-04-30,wages,9263.08,Calculated from completed synthetic staff shifts
+69,1,2026-04-14,marketing,715.28,Synthetic marketing expense
+70,2,2026-04-11,rent,9381.45,Monthly store rent
+71,2,2026-04-01,utilities,748.75,"Electricity, water, and internet"
+72,2,2026-04-07,supplies,351.93,Cleaning and office supplies
+73,2,2026-04-30,wages,7974.48,Calculated from completed synthetic staff shifts
+74,3,2026-04-07,rent,6943.81,Monthly store rent
+75,3,2026-04-05,utilities,999.04,"Electricity, water, and internet"
+76,3,2026-04-09,supplies,209.69,Cleaning and office supplies
+77,3,2026-04-30,wages,9796.99,Calculated from completed synthetic staff shifts
+78,3,2026-04-26,marketing,924.90,Synthetic marketing expense
+79,1,2026-05-04,rent,7200.44,Monthly store rent
+80,1,2026-05-10,utilities,812.80,"Electricity, water, and internet"
+81,1,2026-05-09,supplies,439.04,Cleaning and office supplies
+82,1,2026-05-31,wages,8531.27,Calculated from completed synthetic staff shifts
+83,2,2026-05-06,rent,6651.23,Monthly store rent
+84,2,2026-05-05,utilities,737.27,"Electricity, water, and internet"
+85,2,2026-05-05,supplies,236.80,Cleaning and office supplies
+86,2,2026-05-31,wages,8258.42,Calculated from completed synthetic staff shifts
+87,2,2026-05-26,maintenance,654.46,Synthetic maintenance expense
+88,3,2026-05-08,rent,7692.08,Monthly store rent
+89,3,2026-05-10,utilities,1306.04,"Electricity, water, and internet"
+90,3,2026-05-05,supplies,369.05,Cleaning and office supplies
+91,3,2026-05-31,wages,10880.80,Calculated from completed synthetic staff shifts
+92,3,2026-05-11,marketing,368.16,Synthetic marketing expense
+93,1,2026-06-05,rent,7979.14,Monthly store rent
+94,1,2026-06-09,utilities,1105.41,"Electricity, water, and internet"
+95,1,2026-06-04,supplies,435.63,Cleaning and office supplies
+96,1,2026-06-30,wages,8834.89,Calculated from completed synthetic staff shifts
+97,1,2026-06-14,marketing,860.61,Synthetic marketing expense
+98,2,2026-06-04,rent,7030.82,Monthly store rent
+99,2,2026-06-08,utilities,829.36,"Electricity, water, and internet"
+100,2,2026-06-03,supplies,369.79,Cleaning and office supplies
+101,2,2026-06-30,wages,8244.43,Calculated from completed synthetic staff shifts
+102,2,2026-06-30,other,429.76,Synthetic other expense
+103,3,2026-06-03,rent,8681.83,Monthly store rent
+104,3,2026-06-09,utilities,846.18,"Electricity, water, and internet"
+105,3,2026-06-04,supplies,213.15,Cleaning and office supplies
+106,3,2026-06-30,wages,9303.50,Calculated from completed synthetic staff shifts
+107,1,2026-07-06,rent,8631.27,Monthly store rent
+108,1,2026-07-03,utilities,768.81,"Electricity, water, and internet"
+109,1,2026-07-05,supplies,164.63,Cleaning and office supplies
+110,1,2026-07-31,wages,9152.54,Calculated from completed synthetic staff shifts
+111,2,2026-07-06,rent,9339.69,Monthly store rent
+112,2,2026-07-07,utilities,730.72,"Electricity, water, and internet"
+113,2,2026-07-08,supplies,277.90,Cleaning and office supplies
+114,2,2026-07-31,wages,9072.12,Calculated from completed synthetic staff shifts
+115,3,2026-07-10,rent,9215.78,Monthly store rent
+116,3,2026-07-07,utilities,832.27,"Electricity, water, and internet"
+117,3,2026-07-02,supplies,318.99,Cleaning and office supplies
+118,3,2026-07-31,wages,10946.55,Calculated from completed synthetic staff shifts
+119,3,2026-07-08,other,988.05,Synthetic other expense

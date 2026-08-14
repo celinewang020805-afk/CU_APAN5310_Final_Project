@@ -1,0 +1,11 @@
+vendor_id,vendor_name,contact_name,email,phone,vendor_status
+1,Metro Grocery Supply,Aisha Wilson,orders@metrogrocerysupply.com,718-555-1001,active
+2,Fresh Farm Distributors,Kevin Martinez,orders@freshfarmdistributors.com,718-555-1002,active
+3,Household Wholesale NY,Sophia Davis,orders@householdwholesaleny.com,718-555-1003,active
+4,Empire Beverage Partners,Michael Lopez,orders@empirebeveragepartners.com,718-555-1004,active
+5,Queens Dairy Cooperative,Olivia Clark,orders@queensdairycooperative.com,718-555-1005,active
+6,Brooklyn Bakery Supply,Ethan Lewis,orders@brooklynbakerysupply.com,718-555-1006,active
+7,Atlantic Frozen Foods,Mia Walker,orders@atlanticfrozenfoods.com,718-555-1007,active
+8,Daily Essentials Wholesale,Noah Hall,orders@dailyessentialswholesale.com,718-555-1008,active
+9,Hudson Valley Produce,Chloe Young,orders@hudsonvalleyproduce.com,718-555-1009,active
+10,Tri-State Consumer Goods,Lucas King,orders@tristateconsumergoods.com,718-555-1010,inactive

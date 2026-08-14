@@ -1,0 +1,49 @@
+ABC FOODMART - VALIDATION SUMMARY
+================================
+
+The authoritative Option B candidate passed the real PostgreSQL regression test with all 9 checks equal to true:
+
+- clean_load_and_reload_counts_match
+- loaded_counts_match_expected
+- deliberate_mid_load_failure_rolls_back
+- identity_sequences
+- sale_trigger_and_timestamps
+- daily_view_pre_tax_contract
+- vendor_lateness_zero_floor
+- procurement_cogs_and_loss_reconcile
+- no_negative_inventory
+
+Authoritative final PostgreSQL row counts
+-----------------------------------------
+stores = 5
+job_roles = 6
+employees = 80
+staff_shifts = 2014
+time_off_requests = 71
+product_categories = 8
+products = 48
+store_inventory = 126
+inventory_adjustments = 128381
+vendors = 10
+vendor_products = 93
+purchase_orders = 1240
+purchase_order_items = 4943
+deliveries = 1210
+sales_transactions = 36000
+sales_items = 122906
+customer_returns = 720
+payments = 37333
+operating_expenses = 119
+
+Dataset note
+------------
+The package contains exactly 19 CSV files. The staged inventory_adjustments.csv contains 5,475 non-sale adjustments. During PostgreSQL loading, the validated sales-item trigger adds 122,906 sale adjustments, producing the authoritative loaded count of 128,381.
+
+Validated source selections
+---------------------------
+Schema: checkpoint3_schema_candidate.sql
+Existing-database object patch: checkpoint3_object_patch_candidate.sql
+CSV dataset: abc_foodmart_staging_candidate
+ETL pipeline: abc_foodmart_data_pipeline_candidate.py
+
+The source filenames are retained because these exact files are linked by the validated regression setup. They are the authoritative versions selected for this Final Team Package.

@@ -1,0 +1,17 @@
+# Local credentials
+.env
+
+# Runtime state and backups may contain database credentials or user accounts
+runtime/
+backups/
+metabase-data/
+metabase-data.zip
+*.mv.db
+*.trace.db
+
+# Logs and editor files
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

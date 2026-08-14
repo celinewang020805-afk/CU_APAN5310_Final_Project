@@ -1,0 +1,6 @@
+store_id,store_name,borough,street_address,city,state,zip_code,opening_time,closing_time,operational_status
+1,ABC Foodmart - Flushing,Queens,136-20 Roosevelt Ave,New York,NY,11354,08:00:00,22:00:00,active
+2,ABC Foodmart - Jamaica,Queens,90-15 Parsons Blvd,New York,NY,11432,08:00:00,21:00:00,active
+3,ABC Foodmart - Brooklyn Heights,Brooklyn,120 Montague St,New York,NY,11201,09:00:00,21:00:00,active
+4,ABC Foodmart - Williamsburg,Brooklyn,188 Bedford Ave,New York,NY,11211,09:00:00,22:00:00,planned
+5,ABC Foodmart - Park Slope,Brooklyn,310 7th Ave,New York,NY,11215,09:00:00,21:00:00,planned
